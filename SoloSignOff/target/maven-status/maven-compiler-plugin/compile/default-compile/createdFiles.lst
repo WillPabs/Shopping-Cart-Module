@@ -1,0 +1,10 @@
+com\fdmgroup\SoloSignOff\dao\GenericDao.class
+com\fdmgroup\SoloSignOff\model\Inventory.class
+com\fdmgroup\SoloSignOff\dao\ItemDao.class
+com\fdmgroup\SoloSignOff\dao\UserDao.class
+com\fdmgroup\SoloSignOff\model\ShoppingCart.class
+com\fdmgroup\SoloSignOff\model\Item.class
+com\fdmgroup\SoloSignOff\controller\HomeController.class
+com\fdmgroup\SoloSignOff\dao\ShoppingCartDao.class
+com\fdmgroup\SoloSignOff\dao\IDao.class
+com\fdmgroup\SoloSignOff\model\User.class
